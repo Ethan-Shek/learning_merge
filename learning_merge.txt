@@ -1,2 +1,5 @@
 This is Ethan. 
 The best color is purple!
+
+Hi this is Gavin
+The best color is green!
